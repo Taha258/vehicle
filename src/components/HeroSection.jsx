@@ -157,7 +157,7 @@ function HeroContent() {
 
             {/* Button 3: Richiedi un trasporto */}
             <Link
-              href="/richiedi-trasporto"
+              href="/trasporto"
               className="group px-8 py-4 bg-transparent text-white border-2 border-[#FAC104] rounded-xl text-sm font-bold uppercase tracking-wider hover:bg-[#FAC104] hover:text-[#0f172a] active:scale-95 transition-all duration-300 flex items-center gap-3"
             >
               RICHIEDI UN TRASPORTO

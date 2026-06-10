@@ -10,7 +10,7 @@ const services = [
     description:
       'Valutazione rapida e gratuita. Acquistiamo auto usate di qualsiasi marca con pagamento veloce e gestione completa delle pratiche.',
     button: 'RICHIEDI UNA VALUTAZIONE',
-    href: '/valutazione',
+    href: '/sell-your-car',
   },
   {
     icon: '🚗',

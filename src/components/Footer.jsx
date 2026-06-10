@@ -75,9 +75,15 @@ export default function Footer() {
                   </Link>
                 </li>
                 <li>
-                  <Link href="/contact" className="text-gray-400 text-sm hover:text-white transition-colors" style={{ fontFamily: 'Space Grotesk, sans-serif' }}>
+                  <a
+                    href="https://wa.me/1234567890?text=Hello,%20I%20am%20interested%20in%20your%20cars."
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-gray-400 text-sm hover:text-white transition-colors"
+                    style={{ fontFamily: 'Space Grotesk, sans-serif' }}
+                  >
                     CONTACT US
-                  </Link>
+                  </a>
                 </li>
               </ul>
             </div>
