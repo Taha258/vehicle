@@ -115,7 +115,7 @@ function HeroContent() {
             style={{
               fontFamily: "Syne, sans-serif",
               fontSize: "clamp(28px, 5vw, 55px)",
-              fontWeight: 650,
+              fontWeight: 651,
               lineHeight: "1.2",
               color: "#fff",
             }}
